@@ -30,5 +30,4 @@ public class TripService_Original {
 			throw new UserNotLoggedInException();
 		}
 	}
-	
 }
